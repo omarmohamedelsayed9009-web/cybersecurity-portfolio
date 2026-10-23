@@ -325,5 +325,3 @@ Complete this section with findings from an authorized lab.
   https://nmap.org/book/toc.html
 
 ---
-
-**Disclaimer:** This document is a technical learning reference. Practical results and personal exper
